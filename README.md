@@ -21,7 +21,7 @@ Key Features:
 
     Comprehensive Logging:
         Captures session cookies and credentials efficiently with detailed analytics.
-
+![Demo](/evil.gif)
 Why Use AntiBot?
 
 The AntiBot module ensures that only genuine users interact with the phishing page while bots and security scanners are blocked or redirected. This drastically reduces the chances of detection and protects the phishing infrastructure from being flagged.
