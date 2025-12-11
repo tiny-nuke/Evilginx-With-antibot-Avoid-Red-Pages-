@@ -24,7 +24,7 @@ Key Features:
 ![Demo](/evil.gif)
 DEMO LINK:https://login.onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com/gnnNdBae
 Don't abuse it,its for demonstration purpose
-report issues at : Telegram:https://t.me/Melteddd
+report issues at : Telegram:https://t.me/findmesmtp
 
 Why Use AntiBot?
 
