@@ -19,7 +19,7 @@ Key Features:
         Evades detection by major threat intelligence feeds and anti-phishing systems.
         Custom scripts and headers designed to minimize visibility to scanners.
 
-    Comprehensive Logging:
+    Comprehensive Loggings:
         Captures session cookies and credentials efficiently with detailed analytics.
 ![Demo](/evil.gif)
 DEMO LINK:
